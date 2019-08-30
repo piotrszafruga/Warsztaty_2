@@ -14,22 +14,7 @@ public class Main {
     public static void main(String[] args) {
         manageUsers();
 
-//        User user = new User("Piotr", "address2@mail.com", "tajne", 1);
-//        UserDao userDAO = new UserDao();
-//        user = userDAO.create(user);
-//
-//        User userZBazyDanych1 = userDAO.read(user.getId());
-//        User userZBazyDanych2 = userDAO.read(1);
-//
-//        System.out.println(userZBazyDanych1);
-//        System.out.println(userZBazyDanych2);
-//
-//        userZBazyDanych2.setUserName("Joanna");
-//        userDAO.update(userZBazyDanych2);
-//        User nowy2 = userDAO.read(1);
-//        System.out.println(nowy2);
-//
-//        userDAO.delete(1);
+
 
 
 
